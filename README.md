@@ -45,8 +45,8 @@
 - **Deployment**: Cloudflare Pages
 
 ## 📡 URLs
-- **Production**: Will be available after Cloudflare deployment
-- **GitHub**: Will be added after repository setup
+- **Production**: ⏳ Awaiting Cloudflare deployment
+- **GitHub**: https://github.com/satyamfoodproduct2025/23night
 
 ## 🚀 How It Works
 
