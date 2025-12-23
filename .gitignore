@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Runtime data
+*.log
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/
+.idea/
+
+# PM2
+.pm2/
+pids/
+logs/
+
+# Backup files
+*.backup
+*.bak
+*.tar.gz
+*.zip
